@@ -1,6 +1,6 @@
 # Bashkir Folkloric Edition (Электронное научное издание «Фольклорный архив Башкирского государственного университета»)
 
-[![PHP](https://img.shields.io/badge/PHP-5.x-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net) [![Project Status](https://img.shields.io/badge/status-archival%20%7C%20legacy-yellow.svg)]() 
+[![PHP](https://img.shields.io/badge/PHP-5.x-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net) [![Project Status](https://img.shields.io/badge/status-archival%20%7C%20legacy-yellow.svg)]() ![DH](https://img.shields.io/badge/digital-humanities-blue)
 
 This repository contains the source code and data for the **Electronic Scholarly Edition of the Bashkir Folklore Archive** (Bashkir State University). The edition is accessible online at: [http://nevmenandr.net/pages/bashfolk.php](http://nevmenandr.net/pages/bashfolk.php)
 
