@@ -132,7 +132,7 @@ To bring this edition up to current standards, one could:
 - Convert the static generation script into a reproducible pipeline (e.g., with `make` or a static site generator like Hugo, Zola, or 11ty) and include it in this repository.
 - Update the mapping service (Google Maps API has changed significantly since the early 2010s).
 
-## Citation for the Scholarly Description
+## Related paper
 
 - Gallyamov A. A., Orekhov B. V. (2016). "[On the electronic scholarly edition 'Folklore Archive of Bashkir State University'.](./bashfolk_paper.pdf))" *Bulletin of RSUH. Series 'History. Philology. Cultural Studies. Oriental Studies'*, No. 12, pp. 140–149.
 
