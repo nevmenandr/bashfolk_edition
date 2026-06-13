@@ -116,7 +116,7 @@ Then open your browser to `http://localhost:8000/bashedition.html`.
 
 ## Research Potential (as envisioned in the article)
 
-The authors ([Gallyamov & Orekhov, 2016](](./bashfolk_paper.pdf))) envisioned that this corpus would enable:
+The authors ([Gallyamov & Orekhov, 2016](./bashfolk_paper.pdf)) envisioned that this corpus would enable:
 
 - **Corpus linguistics** analysis (extraction of stable epithets, text clichés, collocations).
 - **Data mining and information extraction** to identify key concepts of the linguistic and folkloric worldview.
@@ -134,7 +134,7 @@ To bring this edition up to current standards, one could:
 
 ## Citation for the Scholarly Description
 
-- Gallyamov A. A., Orekhov B. V. (2016). "[On the electronic scholarly edition 'Folklore Archive of Bashkir State University'.](](./bashfolk_paper.pdf))" *Bulletin of RSUH. Series 'History. Philology. Cultural Studies. Oriental Studies'*, No. 12, pp. 140–149.
+- Gallyamov A. A., Orekhov B. V. (2016). "[On the electronic scholarly edition 'Folklore Archive of Bashkir State University'.](./bashfolk_paper.pdf))" *Bulletin of RSUH. Series 'History. Philology. Cultural Studies. Oriental Studies'*, No. 12, pp. 140–149.
 
 ## Blogpost
 
